@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+
+# Virtual envs
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment / secrets
+.env
+*.local
+
+# Data & models — keep the repo light, never commit corpora/indexes/embeddings
+data/
+models/
+*.faiss
+*.sqlite
+*.db
+*.npy
+*.pdf
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
