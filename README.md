@@ -31,7 +31,7 @@ Learn (gated) → Build. No pipeline code until modules 1–10 are passed.
 - [x] 1. Why RAG
 - [x] 2. Embeddings
 - [x] 3. Chunking
-- [ ] 4. Vector search & indexes
+- [x] 4. Vector search & indexes
 - [ ] 5. Retrieval quality
 - [ ] 6. Hybrid search (BM25 + dense, RRF)
 - [ ] 7. Reranking (cross-encoders)
