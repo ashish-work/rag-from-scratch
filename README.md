@@ -28,8 +28,8 @@ can argue RAG / agent / serving tradeoffs.
 
 Learn (gated) → Build. No pipeline code until modules 1–10 are passed.
 
-- [ ] 1. Why RAG
-- [ ] 2. Embeddings
+- [x] 1. Why RAG
+- [x] 2. Embeddings
 - [ ] 3. Chunking
 - [ ] 4. Vector search & indexes
 - [ ] 5. Retrieval quality
