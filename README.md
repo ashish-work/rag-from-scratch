@@ -32,7 +32,7 @@ Learn (gated) → Build. No pipeline code until modules 1–10 are passed.
 - [x] 2. Embeddings
 - [x] 3. Chunking
 - [x] 4. Vector search & indexes
-- [ ] 5. Retrieval quality
+- [x] 5. Retrieval quality
 - [ ] 6. Hybrid search (BM25 + dense, RRF)
 - [ ] 7. Reranking (cross-encoders)
 - [ ] 8. Query transformation
