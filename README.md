@@ -37,7 +37,7 @@ Learn (gated) → Build. No pipeline code until modules 1–10 are passed.
 - [x] 7. Reranking (cross-encoders)
 - [x] 8. Query transformation
 - [x] 9. Context construction & prompting
-- [ ] 10. Evaluation
+- [x] 10. Evaluation
 - [ ] 11. Advanced architectures
 - [ ] 12. Production concerns
 
