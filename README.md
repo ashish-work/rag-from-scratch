@@ -35,7 +35,7 @@ Learn (gated) → Build. No pipeline code until modules 1–10 are passed.
 - [x] 5. Retrieval quality
 - [x] 6. Hybrid search (BM25 + dense, RRF)
 - [x] 7. Reranking (cross-encoders)
-- [ ] 8. Query transformation
+- [x] 8. Query transformation
 - [ ] 9. Context construction & prompting
 - [ ] 10. Evaluation
 - [ ] 11. Advanced architectures
