@@ -47,6 +47,19 @@ Learn (gated) → Build. No pipeline code until modules 1–10 are passed.
 `v4` query rewriting + contextual headers + eval harness → `v5` production hardening
 (embedding cache, incremental indexing, cost/latency logging).
 
+## Learning plan — theory-first (changed 2026-06-10)
+
+Strategy: cover the **theory of the whole curriculum first**, then one concentrated build phase. The v0→v5 build ladder above + capstones are **deferred** until the theory phase is complete.
+
+**Theory phase — Parts A–F** (checkpoint-gated, one reference note each):
+
+- **A · RAG** — [x] 1–10 · [ ] 11 Advanced architectures · [ ] 12 Production concerns
+- **B · Foundations** — [ ] Math for ML · [ ] ML fundamentals · [ ] Deep learning core · [ ] Transformers
+- **C · LLM Engineering** — [ ] How LLMs are built · [ ] Prompting & context · [ ] Fine-tuning · [ ] Function calling · [ ] Eval/guardrails/cost · [ ] Quantization & inference
+- **D · Tools, MCP & Agents** — [ ] Tools deep dive · [ ] MCP · [ ] Agent loop & patterns · [ ] Multi-agent · [ ] Agent eval & observability
+- **E · LLMOps** — [ ] Serving internals · [ ] Inference metrics & quant · [ ] Caching/gateways/cost · [ ] Deploy/observability/security
+- **F · Breadth** — [ ] Generative models · [ ] Multimodal & VLMs · [ ] Safety & alignment
+
 ## Repo layout
 
 - `notes/` — concept notes + checkpoint answers, in my own words
